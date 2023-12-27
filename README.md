@@ -1,0 +1,1 @@
+# ticketing_project_microservices_config
